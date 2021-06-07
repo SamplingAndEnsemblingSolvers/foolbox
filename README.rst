@@ -1,9 +1,14 @@
+📣 Hi! I am `Jonas <https://jonasrauber.de>`_, the lead developer of `Foolbox <https://github.com/bethgelab/foolbox>`_ and `EagerPy <https://github.com/jonasrauber/eagerpy>`_.
+
+I have recently handed in my PhD dissertation 🎓 in Machine Learning and **I am currently looking for new job opportunities in Europe 🇪🇺🇨🇭🇬🇧 and abroad 🇺🇸**.
+
+**If you or your company are looking for a machine learning researcher 👨‍🔬 or engineer 🚀**, please `reach out <https://www.linkedin.com/in/jonasrauber/>`_.
+
+----
+
 .. raw:: html
 
    <a href="https://foolbox.jonasrauber.de"><img src="https://raw.githubusercontent.com/bethgelab/foolbox/master/guide/.vuepress/public/logo_small.png" align="right" /></a>
-
-.. image:: https://badge.fury.io/py/foolbox.svg
-   :target: https://badge.fury.io/py/foolbox
 
 .. image:: https://readthedocs.org/projects/foolbox/badge/?version=latest
     :target: https://foolbox.readthedocs.io/en/latest/
@@ -13,6 +18,9 @@
 
 .. image:: https://joss.theoj.org/papers/10.21105/joss.02607/status.svg
    :target: https://doi.org/10.21105/joss.02607
+
+.. image:: https://badge.fury.io/py/foolbox.svg
+   :target: https://badge.fury.io/py/foolbox
 
 ===============================================================================================================================
 Foolbox Native: Fast adversarial attacks to benchmark the robustness of machine learning models in PyTorch, TensorFlow, and JAX

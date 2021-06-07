@@ -69,7 +69,4 @@ def images(
             ax.axis("off")
             i = row * ncols + col
             if i < len(x):
-                if x.shape[-1] == 1:
-                    ax.imshow(x[i][:, :, 0])
-                else:
-                    ax.imshow(x[i])
+                ax.imshow(x[i])
